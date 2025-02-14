@@ -7,7 +7,7 @@ def factorial(n):
 
 
 
-num = 5
+num = 6
 print("Factorial of", num, "is",
       factorial(num))
 
